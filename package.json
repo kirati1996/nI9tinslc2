@@ -1,0 +1,16 @@
+{
+  "name": "43zxrLX2jmzCbT9",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ไฮไลท์ฟุตบอลโลก บอลโลก โซนยุโรป",
+  "keywords": [
+    "บอลโลก 2022 บอลโลก โซนยุโรป",
+    "สมัครแทงบอล บอลโลก 2022", 
+    "แทงบอลโลก2022 ไฮไลท์ฟุตบอลโลก"
+  ],
+  "repository": "https://github.com/kirati1996/nI9tinslc2.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
